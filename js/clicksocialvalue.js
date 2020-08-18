@@ -1,5 +1,3 @@
-var script = document.createElement('script');script.src = "https://code.jquery.com/jquery-3.5.1.min.js";
-document.head.appendChild(script);
 var a_idx = 0;
 jQuery(document).ready(function($) {
     $("body").click(function(e) {
